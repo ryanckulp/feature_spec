@@ -1,6 +1,6 @@
 # wtf is this?
 
-**feature spec** is a new community for product managers to share and discover best practices for creating technical specs. it's also a fun place to learn how some of our favorite features and products were first conceived.
+**feature spec** is a new community for product managers to swap best practices for creating technical specs. it's also a place to discover how some of our favorite features and products were first conceived.
 
 ### how it works
 
