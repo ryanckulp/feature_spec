@@ -4,12 +4,12 @@
 
 ### how it works
 
-* new to writing specs? Start with [our boilerplate](https://github.com/ryanckulp/feature_spec/blob/master/templates/boilerplate.md).
-* need some inspiration? View popular examples.
+* new to writing specs? start with [our boilerplate](https://github.com/ryanckulp/feature_spec/blob/master/templates/boilerplate.md).
+* need some inspiration? [view an example](https://github.com/ryanckulp/feature_spec/blob/master/b2b_saas/fomo.md).
 * want to show off? [submit a pull request](#contributing).
 
 ### navigating and style guide
-let's maintain a structure like this, with a sub-directory per industry or category. a few have been provided to get us started, but feel free to create a new one. use snake_case when naming folders and files, please.
+stash your images inside images/your-project. categorize your spec by industry or category. a few directories have been pre-populated, free to create more. finally, use snake_case when naming folders and files, please.
 
 ```
 feature_spec
