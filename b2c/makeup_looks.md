@@ -41,7 +41,7 @@ Step 2 of 3, add makeups one at a time via auto-complete search.
 
 Step 3 of 3, after adding all the products for a given look, click ‘Finish’ and get redirected to the Look page.
 
-![makeup looks add look](https://github.com/ryanckulp/feature_spec/raw/master/images/makeup_looks/makeup-looks-add-makeups.png)
+![makeup looks add look](https://github.com/ryanckulp/feature_spec/raw/master/images/makeup_looks/makeup-looks-add-more-makeups.png)
 
 **Profile Page**
 
