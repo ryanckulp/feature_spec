@@ -1,7 +1,27 @@
 ### description
 this is where you define the JTBD (job to be done). ideally this is 1-2 sentences, in [layman's terms](https://en.wiktionary.org/wiki/in_layman%27s_terms).
 
-### story
+### features
+not always appropriate, thus optional. if what you're building is customer-facing (vs infrastructure, devops, etc), it's helpful to provide high level notes on the end-user's experience.
+
+for example, if you were implementing a payments gateway...
+
+* ability to trial for 30 days free, without a credit card
+* ability to apply coupons (XX days free, X% off, $X off)
+* ability to charge or refund pro-rata for < 30 day billing cycle usage
+
+### definitions
+there are a few words in technology that can become very confusing if not used carefully. words like: client, user, visitor.
+
+since **writing good technical specs means reducing ambiguity**, it's prudent to use common technology words intentionally. for an added bonus, use Proper casing on words that have been articulated in your definitions section.
+
+example:
+
+* Marketer - a customer who is not technical, but ultimately the decision-maker
+* Developer - the Marketer's colleague, who will need to schedule time to implement the tool
+* User - the Marketer's customer, who will benefit from implementing this tool
+
+### user stories
 figure out the stakeholders -- who will be affected by the implementation of these requirements?
 
 describe the benefits (and potentially cons) for each. if there are more than 2-3 stakeholders, it may be better to break the requirements into more specs.
@@ -43,6 +63,7 @@ format:
 3. IF marketer returns to dashboard via the link in email, present them with message "greetings from your inbox"
 4. IF marketer returns to dashboard, but source not attributable, present message "glad to have you back"
 5. when marketer returns to complete tutorial, regardless of source, send to XXX page
+
 
 ### getting started
 here we can get technical, and generally go nuts.
