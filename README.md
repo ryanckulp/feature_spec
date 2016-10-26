@@ -4,7 +4,7 @@
 
 ### how it works
 
-* new to writing specs? Start with [our boilerplate]().
+* new to writing specs? Start with [our boilerplate](https://github.com/ryanckulp/feature_spec/blob/master/templates/boilerplate.md).
 * need some inspiration? View popular examples.
 * want to show off? [submit a pull request](#contributing).
 
@@ -44,7 +44,7 @@ feature_spec
 3. if you have them, include view-only links to wireframes, early designs, or notes. put us in your shoes!
 4. omissions for security (or embarassment) reasons are OK, but the more raw, the better.
 5. the more obscure the feature, the less interesting. ideally, submissions are tangible.
-6. feel free to include post-mortem notes -- why you made a certain decision choice, what got thrown out, etc. 
+6. feel free to include post-mortem notes -- why you made a certain decision choice, what got thrown out, etc.
 5. self promotion OK, just try not to include more than a couple links.
 
 ### contributing
