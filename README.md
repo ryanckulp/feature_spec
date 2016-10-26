@@ -12,6 +12,7 @@
 
 * [fomo](https://github.com/ryanckulp/feature_spec/blob/master/b2b_saas/fomo.md), a marketing platform
 * [makeup looks](https://github.com/ryanckulp/feature_spec/blob/master/b2c/makeup_looks.md), a community for makeup tutorials
+* [upc.co](https://github.com/ryanckulp/feature_spec/blob/master/enterprise/upc.md), a search engine for UPC barcodes
 
 ### navigation and style guide
 stash your images inside images/your-project. categorize your spec by industry or category. a few directories have been pre-populated, free to create more. finally, use snake_case when naming folders and files, please.
