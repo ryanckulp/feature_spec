@@ -8,7 +8,12 @@
 * need some inspiration? [view an example](https://github.com/ryanckulp/feature_spec/blob/master/b2b_saas/fomo.md).
 * want to show off? [submit a pull request](#contributing).
 
-### navigating and style guide
+### recently added
+
+* [fomo](https://github.com/ryanckulp/feature_spec/blob/master/b2b_saas/fomo.md), a marketing platform
+* [makeup looks](https://github.com/ryanckulp/feature_spec/blob/master/b2c/makeup_looks.md), a community for makeup tutorials
+
+### navigation and style guide
 stash your images inside images/your-project. categorize your spec by industry or category. a few directories have been pre-populated, free to create more. finally, use snake_case when naming folders and files, please.
 
 ```
@@ -34,8 +39,9 @@ feature_spec
 ```
 
 ### wishlist
-* any original feature specs from twitter, facebook, google, etc.
-* feature specs from celebrity PMs (_i don't know any, i'm just a guy who drinks iced coffee_)
+
+* original feature specs from twitter, facebook, google, etc.
+* contributions from celebrity PMs (_i don't know any, i'm just a guy who drinks iced coffee_)
 
 ### best practices
 
